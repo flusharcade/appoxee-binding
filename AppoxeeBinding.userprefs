@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="AppoxeeBinding/AppoxeeBinding.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppoxeeBinding/libAppoxee.linkwith.cs">
+    <Files>
+      <File FileName="AppoxeeBinding/libAppoxee.linkwith.cs" Line="4" Column="72" />
+      <File FileName="AppoxeeBinding/ApiDefinition.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

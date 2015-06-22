@@ -1,0 +1,5 @@
+/Users/bislip/Projects/AppoxeeBinding/AppoxeeBinding/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/bislip/Projects/AppoxeeBinding/AppoxeeBinding/bin/Debug/AppoxeeBinding.dll.mdb
+/Users/bislip/Projects/AppoxeeBinding/AppoxeeBinding/bin/Debug/AppoxeeBinding.dll
+/Users/bislip/Projects/AppoxeeBinding/AppoxeeBinding/obj/Debug/AppoxeeBinding.dll
+/Users/bislip/Projects/AppoxeeBinding/AppoxeeBinding/obj/Debug/AppoxeeBinding.dll.mdb
