@@ -46,6 +46,14 @@ namespace ApiDefinition {
 		[DllImport (LIBOBJC_DYLIB, EntryPoint="objc_msgSendSuper")]
 		public extern static IntPtr IntPtr_objc_msgSendSuper_IntPtr (IntPtr receiever, IntPtr selector, IntPtr arg1);
 		[DllImport (LIBOBJC_DYLIB, EntryPoint="objc_msgSend")]
+		public extern static IntPtr IntPtr_objc_msgSend_int (IntPtr receiver, IntPtr selector, int arg1);
+		[DllImport (LIBOBJC_DYLIB, EntryPoint="objc_msgSendSuper")]
+		public extern static IntPtr IntPtr_objc_msgSendSuper_int (IntPtr receiver, IntPtr selector, int arg1);
+		[DllImport (LIBOBJC_DYLIB, EntryPoint="objc_msgSend")]
+		public extern static IntPtr IntPtr_objc_msgSend_int_bool (IntPtr receiver, IntPtr selector, int arg1, bool arg2);
+		[DllImport (LIBOBJC_DYLIB, EntryPoint="objc_msgSendSuper")]
+		public extern static IntPtr IntPtr_objc_msgSendSuper_int_bool (IntPtr receiver, IntPtr selector, int arg1, bool arg2);
+		[DllImport (LIBOBJC_DYLIB, EntryPoint="objc_msgSend")]
 		public extern static void void_objc_msgSend_IntPtr (IntPtr receiver, IntPtr selector, IntPtr arg1);
 		[DllImport (LIBOBJC_DYLIB, EntryPoint="objc_msgSendSuper")]
 		public extern static void void_objc_msgSendSuper_IntPtr (IntPtr receiver, IntPtr selector, IntPtr arg1);

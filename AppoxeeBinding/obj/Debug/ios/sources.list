@@ -1,4 +1,6 @@
 obj/Debug/ios/ObjCRuntime/Messaging.g.cs
-obj/Debug/ios/AppoxeeMessage.g.cs
-obj/Debug/ios/AppoxeeDelegate.g.cs
-obj/Debug/ios/AppoxeeManager.g.cs
+obj/Debug/ios/Appoxee/AmazonEndpoints.g.cs
+obj/Debug/ios/Appoxee/AmazonSQSClient.g.cs
+obj/Debug/ios/Appoxee/AppoxeeMessage.g.cs
+obj/Debug/ios/Appoxee/AppoxeeDelegate.g.cs
+obj/Debug/ios/Appoxee/AppoxeeManager.g.cs
